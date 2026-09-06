@@ -1,6 +1,6 @@
 # Hospital Intelligence & Patient Risk Analytics Pipeline
 
-## 🩺 The Problem (Why This Project Matters)
+## 🩺 The Problem
 Healthcare databases are often filled with messy, incomplete patient records due to busy doctors or missing forms. In this dataset of **15,000 patients**, columns like smoking habits, alcohol use, and income level had large gaps. 
 
 If an analyst blindly deletes these rows, the hospital loses valuable patient data. If they just guess the missing answers using simple averages, it creates fake data trends and distorts real health statistics. 
